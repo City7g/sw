@@ -1,0 +1,32 @@
+{
+  "name": "Manifest App",
+  "short_name": "App",
+  "theme_color": "#ff0000",
+  "scope": "/",
+  "start_url": ".",
+  "lang": "ru",
+  "offline_enabled": "true",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/img/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/android-chrome-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/mstile-150x150.png",
+      "sizes": "214x214",
+      "type": "image/png"
+    }
+  ]
+}
